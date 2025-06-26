@@ -1,2 +1,2 @@
-def main():
-    # just making this in case I decide to use a python file
+import torch
+# print(torch.cuda.is_available())

@@ -197,3 +197,4 @@ cython_debug/
 /etfs
 /stocks
 symbols_valid_meta.csv
+Cleaned_data.csv

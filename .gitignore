@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Data folders/metadata
+/etfs
+/stocks
+symbols_valid_meta.csv
